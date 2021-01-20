@@ -1,0 +1,4 @@
+Parte mais granular do ambiente
+
+->input
+->botão
